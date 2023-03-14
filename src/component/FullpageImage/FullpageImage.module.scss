@@ -1,0 +1,12 @@
+.fullpage {
+    position: relative;
+    svg {
+        position: fixed;
+        left: 30px;
+        top: 30px;
+        width: 100px;
+        height: 100px;
+        background: #f4d059;
+        border-radius: 50%;
+    }
+}
